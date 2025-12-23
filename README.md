@@ -35,6 +35,3 @@ This project helped in understanding:
 * Decision Tree algorithms
 * Feature preprocessing
 * Model training and evaluation
-
-✔ Make it shorter or more technical
-
